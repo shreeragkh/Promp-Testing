@@ -1,4 +1,4 @@
-# Prompt A/B Tester
+# Prompt Testing
 
 A prompt engineering benchmarking tool that runs the same task through three prompting strategies side by side — Zero-shot, Few-shot, and Chain-of-Thought — and uses Claude as an LLM-as-judge to score each output automatically.
 
@@ -60,8 +60,8 @@ Select a domain from the sidebar to switch the few-shot examples context:
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/shreeragkh/prompt-abtester
-cd prompt_abtester
+git clone https://github.com/shreeragkh/prompt-tester
+cd prompt_tester
 ```
 
 **2. Install dependencies**
