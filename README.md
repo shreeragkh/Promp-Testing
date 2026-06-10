@@ -19,7 +19,7 @@ Built with Python, Streamlit, and the Anthropic Claude API.
 ## Project structure
 
 ```
-prompt_abtester/
+prompt_testing/
 │
 ├── app.py                  # Streamlit entry point — UI, layout, session state
 │
@@ -60,8 +60,8 @@ Select a domain from the sidebar to switch the few-shot examples context:
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/shreeragkh/prompt-tester
-cd prompt_tester
+git clone https://github.com/shreeragkh/prompt-testing
+cd prompt_testing
 ```
 
 **2. Install dependencies**
